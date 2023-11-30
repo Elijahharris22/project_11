@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chocolate Cafe App project 11</string>
+    <string name="chocolate_mousse">Chocolate Mousse</string>
+    <string name="chocolate_cake">Chocolate Cake</string>
+    <string name="chocolate_macaron">Macaroon</string>
+
+    <string name="title_activity_chocolate_cake">chocolate_cake</string>
+</resources>
